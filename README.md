@@ -25,7 +25,7 @@ Currently studying software engineering and exploring the intersection of code a
 ## 🚀 Favorite Project
 
 ### [GM-platformer](https://github.com/Cloudyday56/GM-platformer)
-A platformer game built in GameMaker with two friends!  
+A indie platformer game built in GameMaker
 > *Combining creativity, teamwork, and code for a fun gaming experience.*
 
 ---
@@ -35,6 +35,7 @@ A platformer game built in GameMaker with two friends!
 - Exploring more about machine learning and AI
 - Trying out new game engines and creative tools
 - Building open source projects and learning with the community
+- Learning fullstack development with a MERN project
 
 ---
 
