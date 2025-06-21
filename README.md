@@ -16,9 +16,10 @@ Currently studying software engineering and exploring the intersection of code a
 
 ## 🛠️ Skills
 
-- **Languages:** Python, Java, JavaScript, HTML, CSS, React, C++, GameMaker Language (GML)
-- **Frameworks:** Vue, Express
-- **Tools:** VScode, GameMaker, Aseprite, Blender, Godot, Unity
+- **Languages:**  
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,react,cpp&perline=5&theme=dark)](https://skillicons.dev)
+- **Tools:**  
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,blender,godot,gamemakerstudio,unity,vue,express,nodejs,tailwind,mongodb,postman&perline=5&theme=dark)](https://skillicons.dev)
 
 ---
 
