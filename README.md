@@ -16,16 +16,17 @@ Currently studying software engineering and exploring the intersection of code a
 
 ## 🛠️ Skills
 
-- **Languages:** Python, Java, GameMaker Language (GML), JavaScript, HTML, CSS
-- **Frameworks:** Vue
-- **Tools:** GameMaker, Aseprite, Blender
+- **Languages:** Python, Java, JavaScript, HTML, CSS, React, C++, GameMaker Language (GML)
+- **Frameworks:** Vue, Express
+- **Tools:** VScode, GameMaker, Aseprite, Blender, Godot, Unity
 
 ---
 
 ## 🚀 Favorite Project
 
 ### [GM-platformer](https://github.com/Cloudyday56/GM-platformer)
-A indie platformer game built in GameMaker
+- A indie platformer game built in GameMaker
+- Original sprites made using Aseprite
 > *Combining creativity, teamwork, and code for a fun gaming experience.*
 
 ---
