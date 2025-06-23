@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Cloudyday!
+# 👋 Hi, I'm Ru!
 
 🎓 **Student | Software Engineering Enthusiast**  
 Currently studying software engineering and exploring the intersection of code and creativity.
@@ -28,16 +28,16 @@ Currently studying software engineering and exploring the intersection of code a
 ### [GM-platformer](https://github.com/Cloudyday56/GM-platformer)
 - A indie platformer game built in GameMaker
 - Original sprites made using Aseprite
-> *Combining creativity, teamwork, and code for a fun gaming experience.*
+> *Combining creativity, art, and code for a fun gaming experience.*
 
 ---
 
 ## 🌱 What I'm Working On
 
-- Exploring more about machine learning and AI
 - Trying out new game engines and creative tools
 - Building open source projects and learning with the community
 - Learning fullstack development with a MERN project
+- Diving into the 3D modeling world with Blender
 
 ---
 
