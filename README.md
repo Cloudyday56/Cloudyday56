@@ -7,8 +7,9 @@ Currently studying software engineering and exploring the intersection of code a
 
 ## 💡 About Me
 
-- 🌱 I’m passionate about **game development**, **open source**, and **machine learning**
-- 👾 Love making games, especially with friends—check out my favorite project below!
+- 🌱 I’m passionate about **game development**, **open source**, and **fullstack development**
+- 👾 Love making **games**, check out my favorite project below!
+- 🌐 I enjoy **fullstack web app** development, building both frontend and backend solutions.
 - 🎨 Interested in **visual arts** and **animation**
 - 🖌️ Experience with **Aseprite** (pixel art) & **Blender** (3D modeling)
 
@@ -19,7 +20,7 @@ Currently studying software engineering and exploring the intersection of code a
 - **Languages:**  
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,react,cpp&perline=5&theme=dark)](https://skillicons.dev)
 - **Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,blender,godot,gamemakerstudio,unity,vue,express,nodejs,tailwind,mongodb,postman&perline=5&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,blender,godot,gamemakerstudio,unity,github,vue,express,nodejs,tailwind,mongodb,postman,raspberrypi&perline=5&theme=dark)](https://skillicons.dev)
 
 ---
 
