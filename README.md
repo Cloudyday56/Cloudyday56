@@ -18,9 +18,9 @@ Currently studying software engineering and exploring the intersection of code a
 ## 🛠️ Skills
 
 - **Languages:**  
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,react,cpp&perline=5&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,html,css,react,cpp&perline=4&theme=dark)](https://skillicons.dev)
 - **Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,blender,godot,gamemakerstudio,unity,github,vue,express,nodejs,vite,tailwind,mongodb,postman,raspberrypi&perline=5&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,blender,godot,gamemakerstudio,unity,github,vue,express,nodejs,nextjs,vite,tailwind,mongodb,postman,raspberrypi&perline=4&theme=dark)](https://skillicons.dev)
 
 ---
 
