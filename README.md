@@ -26,7 +26,7 @@ Currently studying software engineering and exploring the intersection of code a
 
 ## 🚀 Favorite Project
 
-### [GM-platformer](https://github.com/Cloudyday56/GM-platform)
+### [GM-platform](https://github.com/Cloudyday56/GM-platform)
 - A indie platformer game built in GameMaker
 - Original sprites made using Aseprite
 > *Combining creativity, art, and code for a fun gaming experience.*
