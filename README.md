@@ -35,10 +35,11 @@ Currently studying software engineering and exploring the intersection of code a
 
 ## 🌱 What I'm Working On
 
-- Trying out new game engines and creative tools
-- Building open source projects and learning with the community
-- Learning fullstack development with a MERN project
 - Diving into the 3D modeling world with Blender
+- Exploring machine learning through building a stock predictor
+- Trying out new game engines and creative tools
+- Learning fullstack development and building web apps
+- Building open source projects and learning with the community
 
 ---
 
