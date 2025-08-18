@@ -3,6 +3,8 @@
 🎓 **Student | Software Engineering Enthusiast**  
 Currently studying software engineering and exploring the intersection of code and creativity.
 
+[My website](https://cr-profile.me)
+
 ---
 
 ## 💡 About Me
