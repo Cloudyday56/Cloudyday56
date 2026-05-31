@@ -9,11 +9,9 @@ Currently studying software engineering and exploring the intersection of code a
 
 ## 💡 About Me
 
-- 🌱 I’m passionate about **game development**, **open source**, and **fullstack development**
-- 👾 Love making **games**, check out my favorite project below!
-- 🌐 I enjoy **fullstack web app** development, building both frontend and backend solutions.
-- 🎨 Interested in **visual arts** and **animation**
-- 🖌️ Experience with **Aseprite** (pixel art) & **Blender** (3D modeling)
+- I’m passionate about **fullstack development**
+- Curious about **financial SaaS**
+- Interested in **visual arts** and **animation**
 
 ---
 
@@ -35,23 +33,5 @@ Currently studying software engineering and exploring the intersection of code a
 
 ---
 
-## 🌱 What I'm Working On
-
-- Diving into the 3D modeling world with Blender
-- Exploring machine learning through building a stock predictor
-- Trying out new game engines and creative tools
-- Learning fullstack development and building web apps
-- Building open source projects and learning with the community
-
----
-
-## 🎨 Interests
-
-- Game development
-- Visual arts & animation
-- Pixel art & 3D modeling
-
----
-
-<sub>✨ Always curious, always creating. Let’s build something great!</sub>
+<sub>✨ Would love to connect! </sub>
 
